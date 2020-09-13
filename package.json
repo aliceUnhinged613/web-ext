@@ -79,7 +79,7 @@
     "mz": "2.7.0",
     "node-notifier": "8.0.0",
     "open": "7.1.0",
-    "parse-json": "5.0.1",
+    "parse-json": "5.1.0",
     "sign-addon": "3.0.0",
     "source-map-support": "0.5.19",
     "strip-bom": "4.0.0",
