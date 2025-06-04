@@ -70,7 +70,7 @@
     "decamelize": "4.0.0",
     "es6-error": "4.1.1",
     "event-to-promise": "0.8.0",
-    "firefox-profile": "2.0.0",
+    "firefox-profile": "4.1.0",
     "fs-extra": "9.0.1",
     "fx-runner": "1.0.13",
     "import-fresh": "3.2.1",
@@ -80,7 +80,7 @@
     "node-notifier": "8.0.0",
     "open": "7.1.0",
     "parse-json": "5.0.1",
-    "sign-addon": "3.0.0",
+    "sign-addon": "6.4.0",
     "source-map-support": "0.5.19",
     "strip-bom": "4.0.0",
     "strip-json-comments": "3.1.1",
@@ -89,7 +89,7 @@
     "watchpack": "1.7.4",
     "ws": "7.3.1",
     "yargs": "15.4.1",
-    "zip-dir": "1.0.2"
+    "zip-dir": "2.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.11.1",
